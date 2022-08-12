@@ -1,5 +1,7 @@
 ### Hi there 👋 My Name is Igor - Welcome 😜
 
+* * *
+
 🎓 i am a Business student (Bachelor's degree) at Universidade Salgado de Oliveira, English student (Bachelor's degree) at Universidade Federal de Minas Gerais and a Java Full Stack Developer Junior.
 
 😎 i always had a passion for development but only entered this world in 2022. I want to develop new projects with my friends and companies. Always looking to learn more and more!
@@ -30,5 +32,6 @@ Here are some ideas to get you started:
 <img align ="left" alt="IgorAntonio22 Github Stats" src="https://github-readme-stats-zeta-neon.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=cobalt"/>
 <img align ="left" src="https://github-readme-stats-zeta-neon.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact"/>
 
+* * *
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/igorantonio22/)
