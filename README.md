@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 Reach me: <a href="https://www.linkedin.com/in/igorantonio22/" rel="nofollow noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png?20210301220643" alt="linkedin" width="100px" height="40px">
+    <img src="https://help.iubenda.com/wp-content/uploads/2020/05/linkedin-1024x250.png" alt="linkedin" width="10%" height="10%">
   </a> &nbsp; 
   <a href="https://github.com/IgorAntonio22" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github">
