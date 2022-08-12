@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 <a href="https://www.linkedin.com/in/igorantonio22/" rel="nofollow noreferrer">
-    <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-linkedin-social-media-justicon-lineal-color-justicon.png" alt="linkedin" width="40px" height="20px">
+    <img src="https://img.icons8.com/doodle/344/linkedin--v2.png" alt="linkedin" width="40px" height="80px">
   </a> &nbsp; 
   <a href="https://github.com/IgorAntonio22" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github">
