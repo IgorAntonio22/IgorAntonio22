@@ -44,6 +44,6 @@ Reach me:
     <img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png" alt="linkedin" width="10%" height="7%">
   </a> &nbsp; 
   <a href="mailto:igorantonio052000@gmail.com" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="email" width="10%" height="7%">
+    <img src=" alt="email" width="10%" height="7%">
   </a>
 
