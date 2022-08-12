@@ -4,7 +4,9 @@
 
 😎 i always had a passion for development but only entered this world in 2022. I want to develop new projects with my friends and companies. Always looking to learn more and more!
 
-[![Chinese fonts](https://see.fontimg.com/api/renderfont4/2OXpK/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/5pqH/xiao-xiangjiao-font.png)](https://www.fontspace.com/category/chinese)
+![japanese-open-for-business-button_1f23a](https://user-images.githubusercontent.com/98776749/184425130-c41fb27e-479d-4cc7-b4d9-119cc9dc17e5.png)
+
+
 
 <!--
 **IgorAntonio22/IgorAntonio22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
