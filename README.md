@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 Reach me:
 <br>
 <a href="https://www.linkedin.com/in/igorantonio22/" rel="nofollow noreferrer">
-    <img src="https://user-images.githubusercontent.com/98776749/184435615-a927ede1-b809-40bc-a1e0-521bfe338a39.png" alt="linkedin" width="10%" height="7%">
+    <img src="https://user-images.githubusercontent.com/98776749/184435615-a927ede1-b809-40bc-a1e0-521bfe338a39.png" alt="linkedin" width="5%" height="3%">
   </a> &nbsp; 
   <a href="mailto:igorantonio052000@gmail.com" rel="nofollow noreferrer">
     <img src=" alt="email" width="10%" height="7%">
