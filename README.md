@@ -4,7 +4,11 @@
 
 😎 i always had a passion for development but only entered this world in 2022. I want to develop new projects with my friends and companies. Always looking to learn more and more!
 
-![japanese-open-for-business-button_1f23a](https://user-images.githubusercontent.com/98776749/184425130-c41fb27e-479d-4cc7-b4d9-119cc9dc17e5.png)
+✨ My favourite hobbies are studying foreign languages including English (Advanced), Japanese (Intermidiate), Italian (Beginner) and French (Beginner). Play guitar and Piano. Hanging out with my family and friends. Play videogames and watch anime :)
+
+🈺 Currenlty looking for a job as a software developer.
+
+🚀 Check out my portfolio right [here](https://portfolio-igor-antonio.herokuapp.com/)
 
 
 
@@ -22,6 +26,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+#### Stats:
 <img align ="left" alt="IgorAntonio22 Github Stats" src="https://github-readme-stats-zeta-neon.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=cobalt"/>
 <img align ="right" src="https://github-readme-stats-zeta-neon.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact"/>
+
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/igorantonio22/)
