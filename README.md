@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 Reach me:
 <br>
 <a href="https://www.linkedin.com/in/igorantonio22/" rel="nofollow noreferrer">
-    <img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png" alt="linkedin" width="5%" height="5%">
+    <img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png" alt="linkedin" width="10%" height="7%">
   </a> &nbsp; 
   <a href="mailto:igorantonio052000@gmail.com" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="email" width="10%" height="7%">
   </a>
 
