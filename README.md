@@ -41,10 +41,9 @@ Here are some ideas to get you started:
 Reach me:
 <br>
 <a href="https://www.linkedin.com/in/igorantonio22/" rel="nofollow noreferrer">
-    <img src="https://user-images.githubusercontent.com/98776749/184435615-a927ede1-b809-40bc-a1e0-521bfe338a39.png" alt="linkedin" width="5%" height="3%">
+    <img src="https://user-images.githubusercontent.com/98776749/184435950-eadf45a7-3751-49f1-94c8-a7259be6785d.png" alt="linkedin" width="100%" height="100%">
   </a> &nbsp; 
   <a href="mailto:igorantonio052000@gmail.com" rel="nofollow noreferrer">
     <img src=" alt="email" width="10%" height="7%">
-
   </a>
 
