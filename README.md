@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 <a href="https://www.linkedin.com/in/igorantonio22/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
   </a> &nbsp; 
   <a href="https://github.com/IgorAntonio22" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github">
   </a>
 
