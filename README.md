@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
 
 #### Stats:
-<detais>
   
 <img align ="left" alt="IgorAntonio22 Github Stats" src="https://github-readme-stats-zeta-neon.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=cobalt"/>
 <img align ="right" src="https://github-readme-stats-zeta-neon.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact"/>
-  
-</details>
+
+</div>
 
 
 
