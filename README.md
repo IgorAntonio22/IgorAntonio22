@@ -39,12 +39,11 @@ Here are some ideas to get you started:
 
 
 Reach me:
-<br>
+<br><br>
 <a href="https://www.linkedin.com/in/igorantonio22/" rel="nofollow noreferrer">
     <img src="https://user-images.githubusercontent.com/98776749/184436166-06d5d052-f6b5-406b-b67c-3390fc4f8852.png" alt="linkedin">
   </a> &nbsp; 
   <a href="mailto:igorantonio052000@gmail.com" rel="nofollow noreferrer">
-    <img src=" alt="email" width="10%" height="7%">
+    <img src="https://user-images.githubusercontent.com/98776749/184436303-5623cefc-4e17-4909-a5d7-6f58901f5412.png" alt="email" width="10%" height="7%">
   </a>
-
 
