@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 -->
 #### Stats:
 <img align ="left" alt="IgorAntonio22 Github Stats" src="https://github-readme-stats-zeta-neon.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=cobalt"/>
-<img align ="left" src="https://github-readme-stats-zeta-neon.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact"/><br>
+<img align ="right" src="https://github-readme-stats-zeta-neon.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact"/><br>
 
 * * *
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/igorantonio22/)
