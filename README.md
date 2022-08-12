@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
 #### Stats:
 <a href="https://github.com/IgorAntonio22">  
 <img alt="IgorAntonio22 Github Stats" src="https://github-readme-stats-zeta-neon.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda"/>
@@ -35,6 +37,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/IgorAntonio22"> 
 <img alt="IgorAntonio22 Github Stats" src="https://github-readme-stats-zeta-neon.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula"/>
 </a>
+</div>
 
 * * *
 
