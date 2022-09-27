@@ -8,7 +8,7 @@
 
 ✨ My favourite hobbies are studying foreign languages including English (Advanced), Japanese (Intermidiate), Italian (Beginner) and French (Beginner). Play guitar and Piano. Hang out with my family and friends. Also playing videogames and watch anime :)
 
-🈺 Currenlty looking for a job as a software developer.
+🈺 Currently looking for a job as a software developer.
 
 🚀 Check out my portfolio right [here](https://portfolio-igor-antonio.herokuapp.com/)!
 
