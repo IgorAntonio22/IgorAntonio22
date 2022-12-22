@@ -10,7 +10,7 @@
 
 🈺 Currently looking for a job as a software developer.
 
-🚀 Check out my portfolio right [here](https://portfolio-igor-antonio.herokuapp.com/)!
+🚀 Check out my portfolio right [here](https://portfolio-igor-angular.web.app/)!
 
 
 
