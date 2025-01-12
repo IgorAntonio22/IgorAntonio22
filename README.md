@@ -8,8 +8,6 @@
 
 ✨ My favourite hobbies are studying foreign languages including English (Advanced to Fluent), Japanese (Intermediate), Italian (Beginner) and French (Beginner to Intermediate), playing guitar and piano, hanging out with my family and friends and also watching anime :)
 
-🈺 Currently looking for a job as a software developer.
-
 🚀 Check out my portfolio right [here](https://porfolio-angular-igor.web.app/)!
 
 
