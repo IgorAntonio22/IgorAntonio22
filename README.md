@@ -2,7 +2,7 @@
 
 * * *
 
-🎓 i am a Business student (Bachelor's degree) at Universidade Salgado de Oliveira, Sotware Engineer student (Bachelor's degree) at Instituto Infnet and a Java Full Stack Developer Junior.
+🎓 i am a Business student (Bachelor's degree) at Universidade Salgado de Oliveira, Sotware Engineer student (Bachelor's degree) at Instituto Infnet and a Java Full Stack Developer.
 
 😎 i always had a passion for development but only entered this world in 2022. I want to develop new projects with my friends and companies. Always looking to learn more and more!
 
