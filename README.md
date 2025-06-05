@@ -38,9 +38,8 @@ Here are some ideas to get you started:
 
 #### Reach me:
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorantonio22/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorantonio22/)
 &nbsp;
-[![EMAIL](https://img.shields.io/badge/EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorantonio052000@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorantonio052000@gmail.com)
 
-</a>
 
