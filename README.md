@@ -36,15 +36,11 @@ Here are some ideas to get you started:
 
 * * *
 
-
 #### Reach me:
-<br><br>
 
-<a href="https://www.linkedin.com/in/igorantonio22/" rel="nofollow noreferrer" style="color:#0A66C2; font-weight:bold; text-decoration:none;">
-  LINKEDIN
-</a> &nbsp;
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorantonio22/)
+&nbsp;
+[![EMAIL](https://img.shields.io/badge/EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorantonio052000@gmail.com)
 
-<a href="mailto:igorantonio052000@gmail.com" rel="nofollow noreferrer" style="color:#D44638; font-weight:bold; text-decoration:none;">
-  EMAIL
 </a>
 
