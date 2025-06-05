@@ -2,11 +2,11 @@
 
 * * *
 
-🎓 i am a Administrator, Sotware Engineer student (Bachelor's degree) at Instituto Infnet and a Java Full Stack Developer.
+🎓 I am an Administrator and a Software Engineering student (Bachelor's degree) at Instituto Infnet, as well as a Java Full Stack Developer.
 
-😎 i always had passion for development but only entered this world in 2022. I intend to develop new projects by myself in the next few years. Always looking to learn more and more!
+😎 I’ve always had a passion for development, but only entered this world in 2022. I intend to develop new projects on my own in the coming years, and I’m always eager to learn more and more!
 
-✨ My favourite hobbies are studying foreign languages including English (Advanced to Fluent), Japanese (Intermediate) and French (Beginner to Intermediate), playing guitar and piano, hanging out with my family and friends and also watching anime :)
+✨ My favorite hobbies include studying foreign languages — English (Advanced to Fluent), Japanese (Intermediate), and French (Beginner to Intermediate) — playing guitar and piano, spending time with my family and friends, and watching anime. :)
 
 🚀 Check out my portfolio right [here](https://porfolio-angular-igor.web.app/)!
 
