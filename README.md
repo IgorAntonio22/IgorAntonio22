@@ -10,33 +10,21 @@
 
 🚀 Check out my portfolio right [here]()!
 
-
-
-<!--
-**IgorAntonio22/IgorAntonio22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### Stats:
+#### GitHub Statistics:
+<div align="center">
 <a href="https://github.com/IgorAntonio22">  
 <img alt="IgorAntonio22 Github Stats" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda"/>
-</a>
-<a href="https://github.com/IgorAntonio22"> 
 <img alt="IgorAntonio22 Github Stats" src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula"/>
 </a>
+</div>
+<div style="display: inline_block"><br>
+
+</div>
+
 
 * * *
 
-#### Reach me:
+#### Reach me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorantonio22/)
 &nbsp;
