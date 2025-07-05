@@ -10,7 +10,7 @@
 
 🚀 Check out my portfolio right [here]()!
 
-#### GitHub Statistics:
+##### GitHub Statistics:
 <div align="center">
 <a href="https://github.com/IgorAntonio22">  
 <img alt="IgorAntonio22 Github Stats" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda"/>
@@ -24,7 +24,7 @@
 
 * * *
 
-#### Reach me on:
+##### Reach me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorantonio22/)
 &nbsp;
