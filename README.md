@@ -1,6 +1,8 @@
 ### Hi there 👋 My Name is Igor - Welcome 😜
 
-* * *
+##
+
+<div style="font-family: 'Courier New', monospace;">
 
 🎓 I am an Administrator and a Software Engineering student (Bachelor's degree) at Instituto Infnet, as well as a Java Full Stack Developer.
 
@@ -8,9 +10,13 @@
 
 ✨ My favorite hobbies include studying foreign languages — English (Advanced to Fluent), Japanese (Intermediate), and French (Beginner to Intermediate) — playing guitar and piano, spending time with my family and friends, and watching anime. :)
 
-🚀 Check out my portfolio right [here]()!
+🚀 Check out my portfolio right <a href="#">here</a>!
 
-##### GitHub Statistics:
+</div>
+
+##
+
+<h4 style="font-family: 'Courier New', monospace;">🐙 GitHub Statistics:</h4>
 <div align="center">
 <a href="https://github.com/IgorAntonio22">  
 <img alt="IgorAntonio22 Github Stats" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda"/>
@@ -21,13 +27,12 @@
 
 </div>
 
+##
 
-* * *
-
-##### Reach me on:
+<h4 style="font-family: 'Courier New', monospace;">📬 Reach me on:</h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorantonio22/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorantonio052000@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorantonio052000@gmail.com)
 
 
