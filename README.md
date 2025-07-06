@@ -1,31 +1,27 @@
 ### Hi there 👋 My Name is Igor - Welcome 😜
 
-##
-
-<p style="font-family: 'Courier New', monospace;">
-
 🎓 I am an Administrator and a Software Engineering student (Bachelor's degree) at Instituto Infnet, as well as a Java Full Stack Developer.
 
 😎 I’ve always had a passion for development, but I only entered this world in 2022. I intend to develop new projects on my own in the coming years, and I’m always eager to keep learning more and more!
 
 ✨ My favorite hobbies include studying foreign languages — English (Advanced to Fluent), Japanese (Intermediate), and French (Beginner to Intermediate) — playing guitar and piano, spending time with my family and friends, and watching anime. :)
 
-🚀 Check out my portfolio right <a href="#">here</a>!
-
-</p>
+🚀 Check out my portfolio right [here](#)!
 
 ##
 
-<h4 style="font-family: 'Courier New', monospace;">🐙 GitHub Statistics:</h4>
+### 🐙 GitHub Statistics:
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda" />
-  <img width="45%" src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula" />
-</p>
+<div align="center">
+  <a href="https://github.com/IgorAntonio22">
+    <img height="180em" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda" />
+    <img height="180em" src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula" />
+  </a>
+</div>
 
 ##
 
-<h4 style="font-family: 'Courier New', monospace;">📬 Reach me on:</h4>
+### 📬 Reach me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorantonio22/)
 &nbsp;
