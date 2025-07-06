@@ -2,7 +2,7 @@
 
 ##
 
-<div style="font-family: 'Courier New', monospace;">
+<p style="font-family: 'Courier New', monospace;">
 
 🎓 I am an Administrator and a Software Engineering student (Bachelor's degree) at Instituto Infnet, as well as a Java Full Stack Developer.
 
@@ -12,16 +12,16 @@
 
 🚀 Check out my portfolio right <a href="#">here</a>!
 
-</div>
+</p>
 
 ##
 
 <h4 style="font-family: 'Courier New', monospace;">🐙 GitHub Statistics:</h4>
 
-<div align="center">
-  <img width="50%" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda" />
-  <img width="50%" src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula" />
-</div>
+<p align="center">
+  <img width="500" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda" />
+  <img width="420" src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula" />
+</p>
 
 ##
 
