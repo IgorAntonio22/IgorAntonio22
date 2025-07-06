@@ -13,8 +13,8 @@
 ### 🐙 GitHub Statistics:
 
 <div align="center">
-  <img height="120" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda" />
-  <img height="120" src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula" />
+  <img height="80" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda" />
+  <img height="80" src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula" />
 </div>
 
 ##
