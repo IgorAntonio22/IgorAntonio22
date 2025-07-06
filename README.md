@@ -17,7 +17,8 @@
 ##
 
 <h4 style="font-family: 'Courier New', monospace;">🐙 GitHub Statistics:</h4>
-<div align="center">
+
+<div align="center" display="flex">
 <a href="https://github.com/IgorAntonio22">  
 <img alt="IgorAntonio22 Github Stats" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda"/>
 <img alt="IgorAntonio22 Github Stats" src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula"/>
