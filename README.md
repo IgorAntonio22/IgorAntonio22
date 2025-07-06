@@ -18,18 +18,10 @@
 
 <h4 style="font-family: 'Courier New', monospace;">🐙 GitHub Statistics:</h4>
 
-<div align="center" display="flex">
-<a href="https://github.com/IgorAntonio22">
-    <img alt="Igor's GitHub Stats" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda" />
-  </a>
-  <a href="https://github.com/IgorAntonio22">
-    <img alt="Top Langs" src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula" />
-  </a>
-</a>
-</div>
-<div style="display: inline_block"><br>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda" />
+  <img src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula" />
+</p>
 
 ##
 
