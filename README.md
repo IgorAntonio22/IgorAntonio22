@@ -19,8 +19,8 @@
 <h4 style="font-family: 'Courier New', monospace;">🐙 GitHub Statistics:</h4>
 
 <p align="center">
-  <img src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda" />
-  <img src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda" />
+  <img height="180em" src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula" />
 </p>
 
 ##
