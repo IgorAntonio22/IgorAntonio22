@@ -13,10 +13,8 @@
 ### 🐙 GitHub Statistics:
 
 <div align="center">
-  <a href="https://github.com/IgorAntonio22">
-    <img height="180em" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda" />
-    <img height="180em" src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&layout=compact&show_icons=true&theme=dracula" />
-  </a>
+  <img height="120" src="https://github-readme-stats-permanent.vercel.app/api?username=IgorAntonio22&show_icons=true&theme=panda" />
+  <img height="120" src="https://github-readme-stats-permanent.vercel.app/api/top-langs/?username=IgorAntonio22&show_icons=true&theme=dracula" />
 </div>
 
 ##
